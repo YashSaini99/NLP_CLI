@@ -10,11 +10,11 @@ import (
 	"strings"
 	"syscall"
 
+	"github.com/YashSaini99/NLP_CLI/command"
+	"github.com/YashSaini99/NLP_CLI/config"
+	"github.com/YashSaini99/NLP_CLI/executor"
+	"github.com/YashSaini99/NLP_CLI/utils"
 	"github.com/joho/godotenv"
-	"github.com/yourusername/go-nlp-task-runner/command"
-	"github.com/yourusername/go-nlp-task-runner/config"
-	"github.com/yourusername/go-nlp-task-runner/executor"
-	"github.com/yourusername/go-nlp-task-runner/utils"
 )
 
 func main() {

@@ -4,9 +4,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/yourusername/go-nlp-task-runner/config"
-	"github.com/yourusername/go-nlp-task-runner/nlp"
-	"github.com/yourusername/go-nlp-task-runner/validator"
+	"github.com/YashSaini99/NLP_CLI/config"
+	"github.com/YashSaini99/NLP_CLI/nlp"
+	"github.com/YashSaini99/NLP_CLI/validator"
 )
 
 // extractCommand removes markdown code blocks from the NLP response.

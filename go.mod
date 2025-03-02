@@ -1,4 +1,5 @@
-module github.com/yourusername/go-nlp-task-runner
+module github.com/YashSaini99/NLP_CLI
+
 
 go 1.21
 
